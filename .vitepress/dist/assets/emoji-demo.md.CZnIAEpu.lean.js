@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,a3 as o}from"./chunks/framework.B4-s0397.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"emoji-demo.md","filePath":"emoji-demo.md"}'),t={name:"emoji-demo.md"},u=o("",1),p=[u];function q(l,e,i,c,_,r){return a(),s("div",null,p)}const g=n(t,[["render",q]]);export{d as __pageData,g as default};
