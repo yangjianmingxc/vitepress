@@ -12,7 +12,7 @@ import sidebar from './sidebar'
 export default defineConfig({
     title: '<YangJianMing />',
     description: '一些知识梳理',
-    base: '/vitepress-doc/',
+    base: '/yangjianmingxc/vitepress-doc/',
     srcDir: './docs',
     markdown: {
         toc: {
