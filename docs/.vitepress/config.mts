@@ -12,8 +12,7 @@ import sidebar from './sidebar'
 export default defineConfig({
     title: '<YangJianMing />',
     description: '一些知识梳理',
-    base: '/vitepress-doc/',
-    srcDir: './docs',
+    base: '/vitepress/',
     markdown: {
         toc: {
             level: [2, 3, 4], // 控制目录包含的标题层级，默认为 [2, 3]
