@@ -1,2 +1,3 @@
-node 20.18.0
-用的npm
+- node 20.18.0
+- 用的npm
+- nojekyll 文件为了解决css样式不显示的问题
