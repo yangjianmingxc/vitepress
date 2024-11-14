@@ -24,5 +24,9 @@ export default [
         text: 'TypeScript',
         items: [{ text: 'TypeScript 基础', link: '/typescript/base' }],
     },
+    {
+        text: 'CSS',
+        items: [{ text: 'transition', link: '/css/过渡延迟/transition' }],
+    },
     { text: 'interview', link: '/interview/base' },
 ]
